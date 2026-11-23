@@ -2,7 +2,7 @@
 
 A single-sentence pitch that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun. The entry is one plain, warm sentence that names make.fun, names what the agent does with the idea, and makes handing it over feel easy and low risk.
 
-> Tell make.fun your app idea in plain words and the AI agent hands you back a working first version you can open and try tonight.
+> Tell make.fun your app idea in everyday words and the AI agent hands you back a working first version you can open and try tonight.
 
 ## How it works
 

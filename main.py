@@ -1,6 +1,6 @@
 import os
 
-SENTENCE = "Tell make.fun your app idea in plain words and watch the AI agent turn it into a working first version you can open and try tonight."
+SENTENCE = "Tell make.fun your app idea in plain words and the AI agent hands you back a working first version you can open and try tonight."
 
 
 def main():
